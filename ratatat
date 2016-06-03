@@ -383,41 +383,41 @@ http://www.tutorial.wz.cz/data/css/AVT.02.01.06.tema.html
 http://www.sps-jia.cz/blue/staticfiles/HTML/?CSS:D%C4%9Bdi%C4%8Dnost_a_kask%C3%A1da
 Vysvětlete, k čemu může být užitečná anonymita na internetu (zde z úvahy vynechte případy, kdy jde o překračování zákona).
 Na příkladu služby sci-hub vysvětlete, co je to dark web.
-Sci-Hub je pirátsky repozitár s viac ako 47 000 000 akademických článok, ktoré sú prístupné skrz túto webovú stránku. Pri vyhľadávaní článkov stránka najskôr skontroluje, či článok nie je už v LibGene (podobne ruskej webovej stránke). Ak nie, Sci-Hub vstupuje na stránku vydavateľa a pristupuje k článku cez platené predplatné. Prihlasovacie údaje k týmto prístupom darovali anonymní akademici z rôznych zemí. Hlavnou podstatou webu je, že akademické výzkymi by mali byť dostupné voľne, a nie prístupné iba za veľké peniaze. 
+18. Sci-Hub je pirátsky repozitár s viac ako 47 000 000 akademických článok, ktoré sú prístupné skrz túto webovú stránku. Pri vyhľadávaní článkov stránka najskôr skontroluje, či článok nie je už v LibGene (podobne ruskej webovej stránke). Ak nie, Sci-Hub vstupuje na stránku vydavateľa a pristupuje k článku cez platené predplatné. Prihlasovacie údaje k týmto prístupom darovali anonymní akademici z rôznych zemí. Hlavnou podstatou webu je, že akademické výzkymi by mali byť dostupné voľne, a nie prístupné iba za veľké peniaze. 
 Samozrejme Sci-Hub je ilegálny, pričom rovnako ako Silk Road či stránky s detskou pornografiou sú je prístupný iba skrz „Tor“, teda cez sieť počítačov ktoré prenášajú webové požiadavky náhodnou sériou serverov s cieľom udržať navštevníkovu anonymitu. 
-Na příkladu maretu Silk Road vysvětlete, co je to dark web.
+19. Na příkladu maretu Silk Road vysvětlete, co je to dark web.
 Silk Road bol online „darknetový“ čierny trh, nechválne známi ako online platforma na predávanie drog. Ako každý iný obsah „dark webu“, aj Silk Road bol dostupný iba skrz Tor software, teda pomocou siete počítačov ktoré prenášajú webové požiadavky náhodnou sériou serverov s cieľom udržať navštevníkovu anonymitu. Silk Road fungoval od roku 2011 do roku 2013, kedy FBI stránku vypla. Zakladateľ stránky Ross William Ulbricht bol za to odsúdení na doživotie. 
 Dark Web je obsah WWW, ktorý existuje iba na darknete, teda sieti ktorá síce využíva verejný Internet ale vyžaduje k prístupu využívať špecifické nástroje ako Tor, Freenet či I2P.  Obsah „dark webu“ sa nedá nájsť pomocou vyhladávačou.
-Vysvětlete, jak pracuje síť Tor (vysvětlete termíny „onion routing“ a „tor relay“).
+20. Vysvětlete, jak pracuje síť Tor (vysvětlete termíny „onion routing“ a „tor relay“).
 Každý obsah „dark webu“ (drogy, detská pornografia, zbrane) sú dostupné iba cez špecifické sw ako práve Tor. Tor je v podstate free software, ktorý dovoľuje anonymnú komunikáciu na internete. Funguje to tak, že siete počítačov prenášajú webové požiadavky skrz sériu náhodných serverov s cieľom udržať navštevníkovu anonymitu. Pôvodný názov softwaru bol „onion router“, z čoho sa odvodil „onion routing“.
 Onion Routing = technika pre anonýmnu komunikáciu po sieti. V „onion“ sietiach, správa je schovaná pod vrstvy kódovania, pričom zakódované dáta sú prenášané skrz sériu sieti, pričom každá z nich dekoduje jednu vrstvu správy. Keď je dekódovaná posledná vrstva, tak správa dorazí do cieľovej destinácie. 
 Tor Relay = sú to routere, ktoré obdržia správa v Tor sieti a zašlú ju ďalej. Existujú tri druhy Tor Relay – middle (prvé, ktoré obdržia správu a pošlú ju ďalej), exit (posledný, ktorý nasmeruje uživatela na konečnú destináciu)
-Vysvětlete, co je to Tor browser a formulujte vlastní názor na jeho užitečnost.
+21. Vysvětlete, co je to Tor browser a formulujte vlastní názor na jeho užitečnost.
 Tor browser (predtým známy ako Tor Browser Bundle), je upravený Mozzila Firefox prehliadač, ktorý zaisťuje uživateľovu anonymitu na internete. 
-Vysvětlete, jaký je rozdíl mezi soukromím (privacy) a anonymitou (anonymity) na internetu.
+22. Vysvětlete, jaký je rozdíl mezi soukromím (privacy) a anonymitou (anonymity) na internetu.
 Privacy = schopnosť kontrolovať čo zdielame s kým a kedy,
-Popište, jaká jsou rizika „dark webu“ a jak se liší od rizik na „běžném“ webu.
-Srovnejte publikování obsahu na webu pomocí CMS Wordpress a pomocí služby Blogger.
+23. Popište, jaká jsou rizika „dark webu“ a jak se liší od rizik na „běžném“ webu.
+24. Srovnejte publikování obsahu na webu pomocí CMS Wordpress a pomocí služby Blogger.
 Blogger = free blogová platforma, vlastní ju Google. Ak používate blogger, tak jeho obsah nevlastníte – vlastní ho google, ktorý môže vašu stránku kedykoľvek zrušiť. Blogger ponúka iba obmedzené možnosti – limitovaný počet gadgetov, templatov atď. Na nahodzovanie postov sa používa textový editor. 
 Wordpress = open sourcový software v ktorom si uživateľia môžu budovať webovú stránku scela podľa vlastných potrieb – môžu si sem pridávať rôzne pluginy, widgety atď. Uživatelia si môžu stiahnuť zdrojový kód do svojho počítača a pracovať na ňom lokálne. Pri práci na WorldPress.org sa využívajú dva jazyky: MYSQL (v rámci databázového systému, kde sa ukladá obsah WorldPressu) a PHP (skryptovací programovací jazyk). 
-Vysvětlete pojem CMS v kontextu publikování obsahu na webu.
+25. Vysvětlete pojem CMS v kontextu publikování obsahu na webu.
 CMS (Content Management System) = systém pre správu obsahu (redakční, publikační systém). Ide o software, ktorý umožňuje spravovať webové stránky. Pomocou CMS môžeme publikovať, editovať vlastný blogy, pričom nemusíme nutne ovládať HTML či CSS kódovanie. Narábanie s obsahom je teda jednoduche, na druhej strane ale užívatelia nemajú absolútnu kontrolu nad stránkou, pričom majú iba limitované možnosti vo výbere gadgetov a podobne. 
-Srovnejte publikování obsahu na webu pomocí služby Blogger a na platformě Jekyll.
+26. Srovnejte publikování obsahu na webu pomocí služby Blogger a na platformě Jekyll.
 Blogger = CMS (content management system), systém správy obsahu. Vlastný ho Google, užívateľ ho má automaticky k dispozícií hneď po založení Google účtu. Je zadarmo, obsah sa publikuje a edituje pomocou textového editora. Nie je nutná znalosť HTML/CSS. Obsah nevlastní užívateľ, ale Google ktorý môže stránku kedykoľvek zablokovať. Blogger ponúka iba obmedzenú slobudu – iba limitovaný výber gadgetov či templetov. 
 Jekyll = generátor statických stránok. Open sourcový software, ktorý je dostupný pomocou služby Github. Stránka na Jekylle sa dá upravovať lokálne, vlastníkom dát je užívateľ, pričom si svoju stránku môže upravovať bez obmedzení. Pri práci s Jekyllom je nutná aspoň základná znalosť Markdownu (na nahodzovanie postov), CSS a HTML. Dajú sa tu využívať šablóny.
-Popište, jaké máte možnosti, když chcete publikovat obsah na internetu.
+27. Popište, jaké máte možnosti, když chcete publikovat obsah na internetu.
 1. Generátor statických stránok = Jekyll, Gitbook. Využívajú šablóny na vyrábanie HTML súborov. Obsah sa dá meniť lokálne v ľubovolnom textovom editore.
 2. Systém správy obsahu (CMS) = Wordpress. Webové aplikácie, ktoré dovoľujú pridáť, meniť a mazať obsah na webových stránkach. Väčšinou sú jednoduché a nevyžadujú nutnosť ovládať HTML/Markdown/CSS.
 3. Webové služby tretích strán = napr. Tumblr. Sú to skôr sociálne siete, na ktoré užívateľ pridáva obsah (príspevky, fotky …) priamo na webovej stránke. Užívateľ takýchto služieb väčšinou nemôže zo stránkou moc pracovať, má na výber iba limitovaný počet gadgetov, tém atď.
-Srovnejte publikování obsahu na webu pomocí CMS Wordpress a na platformě Jekyll.
+28. Srovnejte publikování obsahu na webu pomocí CMS Wordpress a na platformě Jekyll.
 Jekyll = generátor statických stránok. Open sourcový software, ktorý je dostupný pomocou služby Github. Stránka na Jekylle sa dá upravovať lokálne, vlastníkom dát je užívateľ, pričom si svoju stránku môže upravovať bez obmedzení. Pri práci s Jekyllom je nutná aspoň základná znalosť Markdownu (na nahodzovanie postov), CSS a HTML. Dajú sa tu využívať šablóny.
 Wordpress = open sourcový software v ktorom si uživateľia môžu budovať webovú stránku scela podľa vlastných potrieb – môžu si sem pridávať rôzne pluginy, widgety atď. Uživatelia si môžu stiahnuť zdrojový kód do svojho počítača a pracovať na ňom lokálne. Pri práci na WorldPress.org sa využívajú dva jazyky: MYSQL (v rámci databázového systému, kde sa ukladá obsah WorldPressu) a PHP (skryptovací programovací jazyk). 
-Na příkladu z týmového projektu (můžete využít i cizí projekt) vysvětlete, k čemu je užitečné embedování (embedding).
+29. Na příkladu z týmového projektu (můžete využít i cizí projekt) vysvětlete, k čemu je užitečné embedování (embedding).
 Embedovanie umožňuje vkladať obsah rôznych webových služieb na váš web. Používajú sa k tomu najmä tagy embed, iframe či script. Vďaka embedovaniu môžete na svoj web nahadzovať videá z youtube, tweety, vyberať peniaze cez paypal atď. 
 S kolegom sme nahodili na Jekyll video z youtube. Naneštastie sme ho aj omylom zmazali, takže tu je aspoň commit.
 https://github.com/Pater99/Pater99.github.io/commit/bae197f2c26fe866aa089da1c3e29d8fffa24dc0
-Popište, jak je možné využít automatizace (pomocí webových služeb) ve firemním prostředí.
-Popište, jak pracuje služba IFTTT na příkladu dvou „receptů“.
+30. Popište, jak je možné využít automatizace (pomocí webových služeb) ve firemním prostředí.
+31. Popište, jak pracuje služba IFTTT na příkladu dvou „receptů“.
 Služba IFTTT (If This Than That) dáva možnosť navzájom prepájať funkcie rôznych webových aplikácií (napr. Dropbox+Instagram – vaše fotky z Instagramu sa okamžite uložia na úložisko Dropboxu). Služba IFTTT je zdarma, po prihlásení užívateľ IFTTT môže vytvárať takzvané „recepty“, ktoré zahŕňajú dve webové aplikácie: jednu aplikáciu ako spúšťač, druhú zase na vykonanie procesu. 
 1. https://ifttt.com/recipes/196939-get-notified-with-your-favorite-team-s-final-score
 Ihneď potom, čo sa skončí zápas vášho obľúbeného týmu, príde vám upozornenie s výsledkom zápasu. 
@@ -426,40 +426,40 @@ Ak bude zajtra pršať, tento „recept“ vás dopredu upozorní.
 Kedykoľvek pridáte nový súbor do Dropbox zložky, tak automaticky sa rovnaký súbor nahraje aj na Google Drive. 
 Dropbox je webové úložisko, ktoré na vašom počítači/smartphone/tablete vytvorí synchronizovanú zložku, kde si môžete pridávať ľubovolné súbory. Každý súbor vložený do tejto zložky sa automaticky nahraje na webové úložisko (pokiaľ máte prístup k internetu), ktoré slúži nielen na zálohovanie, ale vďaka nemu je možné využívať konkrétny obsah aj skrz iné zariadenia. 
 Google Drive je skoro to isté, len je to Google. Je vhodný najmä pre dokumenty, tabuľky či prezentácie.
-Stručně popište, co je to Internet of Things (IoT), a formulujte vlastní názor na tento fenomén.
+32. Stručně popište, co je to Internet of Things (IoT), a formulujte vlastní názor na tento fenomén.
 Je to systém, ktorý umožňuje prepájať jednotlivé zariadenia prostredníctvom internetu bez účasti človeka. Princípom je zber dát z rôznych senzorov a čidieľ a zdielanie týchto dát prostredníctvom internetu za účelom ďalšieho spracovania a vyhodnocovania. Internet vecí využíva pre pripojenie zariadení kablové siete či bezdrátové WLAN siete. K vyhodnocovaniu pozbieraných dat sa využívajú „big data“.
 http://www.kodys.cz/internet-of-things.html
-Popište, jak je možné využít automatizace (pomocí webových služeb) v osobním životě.
-Popište, co jsou to big data.
-Popište, jak funguje prvek iframe, a ilustrujte to příkladem v libovolném repozitáři, do kterého jste v průběhu kurzu přispěl(a).
+33 Popište, jak je možné využít automatizace (pomocí webových služeb) v osobním životě.
+34 Popište, co jsou to big data.
+35 Popište, jak funguje prvek iframe, a ilustrujte to příkladem v libovolném repozitáři, do kterého jste v průběhu kurzu přispěl(a).
 https://github.com/Pater99/Pater99.github.io/commit/bae197f2c26fe866aa089da1c3e29d8fffa24dc0
 „iframe“ sa používa na embedovanie obsahu rôznych webových služieb na váš web. Používajú sa k tomu najmä tagy embed, iframe či script. Vďaka embedovaniu môžete na svoj web nahadzovať videá z youtube, tweety, vyberať peniaze cez paypal atď. 
 S kolegom sme nahodili na Jekyll video z youtube. Naneštastie sme ho aj omylom zmazali, takže tu je aspoň commit.
-Popište, co je to IP adresa, a ilustrujte popis příkladem.
+36 Popište, co je to IP adresa, a ilustrujte popis příkladem.
 IP (Internet Protocol) adresa je unikátnou séria čísliel, ktoré prislúchajú každému počítaču (či inému zariadeniu) pripojenému k internetu. Tradičné IP adresa je 32 bitová, pričom každých 8 bitov značí jedno zo štyroch čísiel IP adresy. Prvé čísla väčšinou znamenajú krajinu či hlavnú sieť, potom oblasti/regióny, podsiete a nakoniec samostatné zariadenie – 32 bitový IP adresa sa začala používať v roku 1973 a nazýva sa IPv4. Kapacita IPv4 ale už v súčastnej dobe nie je dostatočná, takže sa prechádza na 128 bitovú IP adresu - IPv6. IP adresy sú vlastne tým, čo dovoľuje komunikáciu medzi zariadeniami na sieti – vďaka čomu sa dokážu vyhľadať a posielať si medzi sebou obsah. Ak si chceme pozrieť napríklad video na Youtube, naše zariadenie bude potrebovať zistiť IP adresu daného Host serveru. Tu mu prezradia DNS servery, pričom následne je naše zariadenie schopne host server vyhľadať a zaslať mu požiadavok na daný obsah. Server túto žiadosť spracuje, zistí si našu IP adresu a zašle objednaný obsah skrz ISP siete k nám – teda k enduserovy. 
-Popište, co se stane v síti, když do prohlížeče zadáte webovou adresu a odešlete požadavek.
+37 Popište, co se stane v síti, když do prohlížeče zadáte webovou adresu a odešlete požadavek.
 Najskôr sa musí zistiť IP adresa, takže prebehne komunikácia medzi naším zariadením a DNS (domain name system) serverami, ktoré priradia k názvu stránky jeho IP adresu. Keď naše zariadenie už pozná IP adresu stránky, tak skrz ISP siete vyhľadá konkrétne zariadenie, ktoré má na starosť fungovanie daného webu. Tomuto zariadeniu následne doručí požiadavok na zaslanie určitého obsahu, pričom si zariadenie spravujúce web spätne zistí IP adresu nášho zariadenia a zašle mu objednaný obsah. Ten u ISP rozdelí do data packetov, ktoré následne putujú ISP sieťami k nám – teda k end userovy. Tu sa pôvodne objednaný obsah (v tomto prípade stránka) dá späť do kopy pomocou sorting algoritmu a následne už môže užívateľ scrollovať. 
-Popište, jaké služby zařaditelné ke konceptu Web 2.0 sami využíváte (alespoň 3 příklady).
+38 Popište, jaké služby zařaditelné ke konceptu Web 2.0 sami využíváte (alespoň 3 příklady).
 Wikipédia, Facebook, Twitter, Google News, Youtube
-Vysvětlete, jaký je rozdíl mezi Wikipedií a konceptem wiki.
+39 Vysvětlete, jaký je rozdíl mezi Wikipedií a konceptem wiki.
 Wiki = vzájomne prepojené webové stránky, ktoré sú prístupné užívateľom cez webový prehliadač a ktorých aktuálny obsah môžu užívatelia doplňovať či obmeňovať prostredníctvom tohto prehliadača. Akýkoľvek užívateľ môže vložiť nový záznam a ktokoľvek iný ho môže zmeniť. Wiki je tiež webový software umožňujúci tvorbu webových stránok typu wiki.
 Wikipedia je projekt hnutia Wikimedia, je to celosvetová, bezplatná internetový encyklopédia do ktorej môže každý užívateľ cez internetový prehliadač pridávať či editovať obsah. 
 Wikipedia je teda len jedna zo stránok typu „wiki“.
 http://aleph.nkp.cz/F/?func=direct&doc_number=000014547&local_base=KTD
-Popište, na jakém principu jsou založeny wiki nástroje (nikoli pouze Wikipedia), a formulujte svůj názor na efektivitu takového přístupu.
+40 Popište, na jakém principu jsou založeny wiki nástroje (nikoli pouze Wikipedia), a formulujte svůj názor na efektivitu takového přístupu.
 Wiki nástroje sú založené na princípe, že každý užívateľ môže cez internetový prehliadač pridávať, editovať a mazať obsah na stránkach typu „wiki“. Wiki nástroje sú založené na myšlienke spoločného spravovania informácií na webových stránkach, teda na spoluautorstve. 
 Wiki nástroje sú založené na tom, že ktokoľvek môže akokoľvek pridávať/editovať/mazať obsah. Výhodné je to z toho hľadiska, že tieto stránky bývavajú neustále aktualizované, stále pribúda nový obsah/nové informácie. S wiki nástrojmi prichádzajú tiež ale problémy, pretože niektorí jednotlivci nemusia na webové stránky typu „wiki“ vždy nahadzovať iba relevantné a zaručené informácie. Z toho dôvodu je potreba aby sa aj vo wiki nástrojoch odkazovalo na použité zdroje a aby prebiehala aspoň minimálna kontrola predtým, než sa upravený (či nový obsah) sa na „wiki“ stránkach zverejní. 
-Uveďte dva příklady služeb z kategorie sharing economy, které se setkaly s negativním přijetím skupin veřejnosti (místních komunit, úřadů, zaměstnanců v určitém oboru atp.). Ve strukčnosti popište, proč k tomu došlo a stručně formulujte vlastní názor na problematiku.
+41 Uveďte dva příklady služeb z kategorie sharing economy, které se setkaly s negativním přijetím skupin veřejnosti (místních komunit, úřadů, zaměstnanců v určitém oboru atp.). Ve strukčnosti popište, proč k tomu došlo a stručně formulujte vlastní názor na problematiku.
 Uber = mobilná aplikácia a spoločnosť, ktorá umožňuje používateľom smartphonov objednávať si automobilový odvoz, teda niečo na spôsob taxi, len ide o vodiča osobného auta ktorý používa Uber aplikáciu, pričom mu cenu diktuje Uber a platby prebiehajú prostredníctvom aplikácie. S Uberom majú samozrejme najväčší problém taxi služby, pretože táto lacnejšia a dostupnejšia služba pripravuje o zákazníkov. 
 AirBnB = platforma prepája ľudí, ktorý majú voľné priestory na prenájom a cestovateľov, ktorý hľadajú v danej lokalite ubytovanie. Ľudia, ktorý odchádzajú mimo svojho domova na pár mesiacov, môžu napríklad cez túto službu svoj dom prenajímať počas doby, kedy budú preč. Proti AirBnB a podobným službám samozrejme protestujú hoteliéri, ktorý rovnako ako taxikári pri Uberi prichádzajú o zákazníkov kvôli lacnejšej variante. 
 K obom dvom situáciam došlo, pretože sa svet mení a ľudia začínajú využívať nové, dostupnejšie a lacnejšie služby. Pokiaľ chcú hotelieri a taxikári udržať svoj biznis, budú sa musieť rýchlo prispôsobiť novej dobe. 
-Popište, co je to algoritmicky vytvářený feed a jak můžete v případě sociální sítě Facebook záměrně či nezáměrně ovlivnit, jaké výsledky algoritmus vrací.
+42 Popište, co je to algoritmicky vytvářený feed a jak můžete v případě sociální sítě Facebook záměrně či nezáměrně ovlivnit, jaké výsledky algoritmus vrací.
 Myslím, že ide o personalizáciu užívateľov na internete. Algoritmus sleduje správanie ľudí na stránkach (či v tomto prípade na sociálnych sieťach), ich návyky a preferencie, pričom im následne ponúka najmä prispôsobený obsah. Napríklad pokiaľ zastávate určité politické či kultúrne názory, facebook vám bude viac ponúkať príspevky a články z týchto oblastí ktoré preferujete a všetko ostatné vytlačí. Takto sa užívateľ FB dostanete do akejsi bubliny – facebook vám bude ponúkať iba výsledky ktoré bude považovať pre vás za relevantné, všetko ostatné sa k vám nedostane. To isté robí napríklad aj google, tiež sleduje vaše preferencie a postupom času stále viac a viac prispôsobuje vyhľadané výsledky. Podľa mňa by nejaký algoritmus nemal rozhodovať o tom, čo sa mi bude páčiť či nie. Ľudia (hlavne mladý) sa rýchlo menia, pričom práve nové informácie/názory s ktorými sa predtým nedostal do kontaktu môžu človeku podstatne zmeniť ich život k lepšiemu. 
-Popište, co je to sharing economy, a formulujte svůj názor na tento fenomén.
+43 Popište, co je to sharing economy, a formulujte svůj názor na tento fenomén.
 Sharing economy, je hybridný trhový model, ktorý je založený na „peer to peer“ zdieľaniu prístupu k službám a produktom. Ide tu v podstate o to, že jednotlivci si môžu požičiavať či prenajímať majetok/produkty iných osôb. Tento model sa využíva väčšinou vtedy, keď daný majetok/produkt (napríklad byt) nie využívaný majiteľom po celú dobu. Sharing economy je založená na princípe, že mať prístup k veci je lepšie ako ju vlastniť, pretože je to lacnejšie a ekologickejšie. Sharing economy dokáže funguvať iba vďaka moderným technológiam, ktoré umožnujú konektivitu
 https://en.wikipedia.org/wiki/Sharing_economy
 Popište, co jsou to MOOC a zhodnoťte, zda je o fenomén, který je pro vás relevantní.
-MOOC (Massive Open Online Course) sú internetové vzdelávacie kurzy s neobmedzeným počtom účastníkov. Ide podstate o druh e-learningovej metódy, založenej na princípe zdieľania a voľnosti. Vzdelávanie prebieha na diaľku, môže prebiehať formou online prednášiek, online testov, úloh atď. Čo je na MOOC dôležité, tak je to, že kurzy sú voľne dostupné a ponúkajú možnosť sa vzdelávať v rôznych oblastiach – sociálne vedy, management atď. 
+44 MOOC (Massive Open Online Course) sú internetové vzdelávacie kurzy s neobmedzeným počtom účastníkov. Ide podstate o druh e-learningovej metódy, založenej na princípe zdieľania a voľnosti. Vzdelávanie prebieha na diaľku, môže prebiehať formou online prednášiek, online testov, úloh atď. Čo je na MOOC dôležité, tak je to, že kurzy sú voľne dostupné a ponúkajú možnosť sa vzdelávať v rôznych oblastiach – sociálne vedy, management atď. 
 CSS =
  p {
       font-family: 
