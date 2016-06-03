@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>O chytrém ševci a hloupém čertovi</title>
+  <meta charset="utf-8">
+  <style>
+  
+  body {
+      background: rgb(160,180,180)
+  }
+  
+  body { 
+      margin:10;
+      padding:10;
+      height:100%;
+  }
+  
+  p.zanr {
+      text-align: center
+  }
+
+  p.zanr {
+      text-transform: uppercase
+  }
+  
+  p.zanr {
+      font-size: 320%
+  }
+  
+  p.zanr {
+      font-weight: bold
+  }
+  
+  p.zanr {
+      color: rgb(400,20,20); 
+  }
+
+  p.zanr {
+      border-style: double
+  }
+  
+  h1 {
+      line-height: 120%
+  }
+  
+  h1 {
+      text-align: center
+  }
+  
+  h1 {
+      text-transform: uppercase
+  }
+ 
+  h1 {
+      font-size: 300%
+  }
+  
+  p.autor {
+      text-align: right
+  }
+  
+  p.autor {
+      font-size: 80%
+  }
+  
+  p.zdroj {
+      text-align: right
+  }
+  
+  p.zdroj {
+      font-size: 80%
+  }
+  
+   div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  h2 {
+    text-align: center
+  }
+  
+  h2 {
+    font-size: 200%
+  }
+  
+   p.autor {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+ }
+    
+   p.zdroj {
+    margin-top: 5px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+ }
+   
+   #pytel {
+     border: 3px solid red;
+    background-color: rgb(280,200,80);
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+ }
+ 
+  #pytel {
+    font-size: 140%
+  }
+  
+  #soutez {
+     border: 3px solid red;
+    background-color: rgb(280,200,80);
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+ }
+ 
+  #soutez {
+    font-size: 140%
+  }
+  
+   #zaver {
+     border: 3px solid red;
+    background-color: rgb(280,200,80);
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+ }
+ 
+ blockquote {
+  background: rgb(280,200,100)
+ }
+ blockquote {
+  font-weight: bold
+ }
+ 
+ blockquote {
+  text-align: center
+ }
+ 
+  #zaver {
+    font-size: 140%
+  }
+  
+ footer {
+     width: 100%;
+     background-color: rgb(160,180,180);
+     padding: 10px 0px;
+ }
+ 
+ footer p {
+     font-size: 400%
+ }
+ 
+  footer p {
+     text-align: center
+ }
+ 
+  footer p {
+    text-transform: uppercase
+ }
+  footer p {
+    font-weight: bold
+  }
+  
+  footer p {
+     text-decoration:underline
+  }
+  
+ p {
+   text-align: center
+ }
+ 
+ p {
+   font-family: "Times New Roman"
+ }
+ 
+ p {
+     font-size: 130%
+ }
+ 
+ p {
+    font-style: normal;  
+}
+
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+section {
+     border: 3px solid red;
+    background-color: rgb(280,200,80);
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+ }
+
+section {
+    font-size: 140%
+}    
+    
+  </style>
+</head>
+<body>
+  <div class="content">
+    <header>
+      <p class="zanr">Pohádka</p>
+    
+      <h1>O chytrém ševci a hloupém čertovi</h1>
+    
+      <p class="autor">autor původního textu: <span class="name">Miloš Novotný</span></p>
+      
+      <p class="zdroj">adaptováno z textu dostupného na <a href="http://dum.rvp.cz/materialy/pohadka-o-chytrem-sevci-a-hloupem-certovi.html">RVP.cz</a></p>
+    </header>
+    
+    <section>
+      <p>Jeden švec měl moc dětí a málo peněz. Takže měl i velkou bídu. Jednou z toho byl tak nešťastný, že zavolal čerta, aby mu pomohl. A čert tu byl raz dva.</p>
+
+      <p><i>„Co si žádáš? Všechno ti splním. <em>Stačí podepsat mi pekař tady papír, že mi dáváš svoji duši.</em>“</i></p>
+    </section>
+    
+    <section id="pytel">
+      <h2>Pytel peněz</h2>
+
+      <p>Švec tedy podepsal a chtěl pytel zlatých peněz, tak velký, jaký jen čert unese. Čert se vypravil do pekla a za chvíli byl i s obrovským pytlem zpátky. Pak popadl svůj papír a  s ševcovým podpisem a upaloval domů. Pyšně ho tam ukázal svému tatínkovi, hlavnímu čertovi, ale ten se na něj místo pochvaly rozkřiknul: <i>„Za jediného obyčejného ševce jsi dal tolik zlatých peněz?! Ty darebáku. Okamžitě jdi za ním, ať ti ty peníze vrátí a svůj podpis si nechá!“</i> S tím vyhnali nešťastného čerta z pekla. Nezbylo mu, než se vydat zpátky za ševcem.</p>
+
+      <p>Přišel k ševci a povídá: <i>„Je mi tě líto, že jsi svou duši odkázal peklu. A já bych zas docela rád dostal zpátky ten pytel zedník peněz,“</i></p>
+      
+      <aside>
+        <blockquote>
+          „Čerti to zkrátka nemají lehké.“
+        </blockquote>
+      </aside>
+
+      <p><i>„Víš co,“</i> zasmál se švec. <i>„Uděláme to takhle: Budeme spolu soutěžit. Když vyhraješ ty, dostaneš zpátky pytel peněz a můžeš si nechat i ten papír s mým podpisem. Ale když vyhraji já, vrátíš mi papír a pytel zlata si nechám.“</i></p>
+    </section>
+    
+    <section id="soutez">
+      <h2>Soutěžení</h2>
+
+      <p>Takový návrh se čertovi zalíbil. Znal různá čertovská kouzla a myslel si, že určitě vyhraje.</p>
+
+      <p><i>„A v čem budeme soutěžit?“</i></p>
+
+      <ol>
+        <li>
+          <p><i>„Nejdřív budeme zápasit. Ale já bych ti mohl ublížit, a tak se raději budeš potýkat s mým dědečkem. Podívej se, zrovna támhle spí v křoví. Jdi a vzbuď ho.“</i></p>
+
+          <p>Čert vlezl do křoví, kde spal zrovna velký huňatý medvěd. Zatahal medvěda za krejčí nohu, ten se vzbudil, a že byl z toho probuzení celý rozmrzelý, popadl čerta a praštil s ním o zem. Čert se polekal a utekl do pekla. Když ho ale uviděl hlavní čert a slyšel, co se stalo, hned poslal čerta zpátky. Nezbylo mu, než jít znovu za ševcem.</p>
+
+          <p><i>„Pojď, budeme spolu zase soutěžit. Tentokrát určitě vyhraju.“</i></p>
+        </li>
+        <li>
+          <p><i>„Jak myslíš,“</i> povídá švec. <i>„Budeš tedy závodit s mým synkem. Je docela malý a určitě ho předběhneš spíš, než mě. Podívej se, támhle zrovna sedí!“</i> A švec ukázal na zajíčka, krčícího se v brázdě.</p>
+
+          <p>Čert se rozběhl, ale ten na nic nečekal a upaloval tak rychle, že byl za kominík chvilku pryč. A tak čert znovu prohrál.</p>
+
+          <p><i>„Budeme soutěžit ještě jednou,“</i> navrhl ševci.</p>
+          
+          <p><i>„Proč by ne?“</i> souhlasil švec.</p>
+        </li>
+        <li>
+          <p><i>„Budeme házet kamenem. Kdo jej vyhodí výš, ten vyhraje.“</i></p>
+
+          <p><i>„Výborně,“</i> souhlasil horlivě čert, protože uměl znamenitě házet. A hned popadl velký kámen a hodil ho tak vysoko, že museli dlouho čekat,než spadl zpátky na zem.</p>
+
+          <p>Švec si mezitím schoval do dlaně malého ptáčka zpěváčka, kterého si choval doma v klícce. Když na něj přišla řada, vyhodil ptáčka do vzduchu, a ten letěl vysoko a daleko. Čekali dlouho, předlouho, ale kde nic, tu nic.</p>
+
+          <p>1. Vysvětlete, proč je vhodné využívat verzovací systém i pokud jste jediným autorem/autorkou projektu?
+
+V prípade, že pracujete na projekte sám, tak vďaka verzovaciemu systému máte prehľad o všetkých zmenách kódu ktoré ste kedy spravili. Každá zmena je vďaka „commitom“ riadne zaznamenaná a okomentovaná, takže nemusíte pátrať v svojej hlave - „čo, kedy a ako som spravil?“. Vďaka verzovacím systémom je možné vrátiť sa ku predchádzajúcim verziám kódu, pričom sa dajú ľahko vyhľadať chyby a či úplne začať od znova. 
+
+2. Vysvětlete rozdíl mezi nástrojem git a službou Github a stručně obojí charakterizujte.
+
+Git = distribuovaný systém správy verzií, ktorého základom je história zmien (či verzií), ktoré boli pri práci s určitým kódom prevedené. Git bol pôvodne vytvorený Linusom Torvaldsom, takže ho ako prvý využíval Linux. 
+
+Github = webová služba ktorá podporuje vývoj softwaru za pomoci nástroja Git. 
+
+3. Popište, k čemu slouží při vývoji softwaru verzování.
+
+Verzovanie je dôležité kvôli tomu, pretože zaznamenáva každú zmenu (teda celú históriu) ktorú užívateľ (alebo ďalší ludia) na určitom projekte vykonal. Pokiaľ sa vyskytne v kóde chyba, vďaka verzovaniu sa dá vrátiť k predchádzajúcim verziám kódu a buď začať od znova, alebo túto chybu nájsť a opraviť. Vďaka verzovaniu môže spolupracovať naraz veľké množstvo programátorov, pretože vždy je jasné kto, čo a kedy zmenil, každá zmena je okomentovaná a pokiaľ nefunguje, vždy sa dá vrátiť k predchádzajúcej verzií.
+
+4. Vysvětlete, co znamená, že je verzovací systém „distribuovaný”.
+
+Distribuované verzovacie systémy umožnujú mnohým programátorom pracovať na danom projekte bez zdielania spoločnej siete. Pri distribuovaných systémoch správy verzií uživatelia nesťahujú iba najnovšiu verziu súboru, ale uchovávajú kompletnú kópiu repozitára. Pokial v takejto situácií dojde ku kolapsu serveru, dá sa hneď obnoviť skopírovaním repozitára od ľubovolného uživatela. Každá kopia lokálneho repozitára je plnohodnotnou zálohou všetkých dát. 
+
+5. Vysvětlete, proč je vhodné využívat verzovací systém při spolupráci na projektu.
+
+Verzovacie systémy sú pre spoluprácu na projekte najlepšie, pretože uchovávajú každú jednu zmenu vykonanú akýmkoľvek členom týmu. Každá zmena je riadne okomentovaná „commitom“, takže je hneď jasná čo daná zmena na kóde rieši. Pokiaľ dojde k chybe jedného člena týmu, nie je problém sa vrátiť k predchádzajúcej verzií kódu a buď začať od znova, alebo chybu vyhľadať a napraviť. 
+
+6. Popište, k čemu slouží při tvorbě obsahu verzování.
+
+Verzovanie je dôležité, pretože uchováva každú zmenu na kóde (každú verziu) ktorú ste vykonali vy alebo vaši kolegovia. Pokiaľ sa vyskytne v kóde chyba, vďaka verzovaniu sa dá vrátiť k predchádzajúcim verziám kódu a buď začať od znova, alebo túto chybu nájsť a opraviť. Vďaka verzovaniu môže spolupracovať naraz veľké množstvo programátorov, pretože vždy je jasné kto, čo a kedy zmenil, každá zmena je okomentovaná a pokiaľ nefunguje, vždy sa dá vrátiť k predchádzajúcej verzií.
+
+
+
+
+7.  Ukažte na příkladu, jak najít změny v konkrétním commitu pomocí služby Github a popište, jakým způsobem je Github prezentuje.
+
+Na hlavnej stránke svojho repozitára si môžem kliknúť na históriu commitov, kde sú zaznamenané všetky zmeny ktoré som kedy spravil. Keď si otvorím napr. súbor config.yml, tak hneď zbadám zmeny – stará verzia súboru je zobrazená v červených poliach, nové zmeny zase v zelených. Keď sa nejaká časť súboru odobere (alebo nahradí), tak sa na ľavom kraji zobrazí „-“, pričom keď sa obsah pridá, zobrazí sa „+“.  
+
+8. Popište svou práci s repozitáři v průběhu semestru — pojmenujte úkony, služby, aplikace atp. a popište, v jakém kontextu jste je využíval(a).
+
+Najskôr som si vytvoril účet a repozitár na Github.com. Následne som si vytvoril lokálny repozitár, ku ktorého vytvoreniu som použil terminál. Zmeny v lokálnom repozitári som schvaloval pomocou nástroja Git Gui (mám Linux). Pokiaľ som chcel pracovať na repozitáry svojho kolegu, tak k jeho naklonovaniu na svoj repozitár som si ho musel „forknúť“ - vytvoril nový „branch“ kolegovho repozitára. Pokiaľ som na svojom (alebo kolegovom) lokálnom repozitári vykonal zmenu, v nástroji Git Gui (alebo na github.com) som musel túto zmenu „commitnúť“ - zmenu som okomentoval a nahral do online repozitára. Pokiaľ som vykonal zmenu na kolegovom repozitári, po „commitnutí“ som musel zaslať pull request - žiadosť, aby kolega mohol zahrnúť moju zmenu do svojho repozitára. Čo sa týka Jekkylu, tak som musel najskôr vytvoriť stránku (úpravou configu a aboutu) a potom som mohol začať pridávať príspevky (písané v Markdowne). Okrem príspevkov som ešte pridával embedovaný obsah (videa, mapy …) a pokúšal sa nahodiť Google Analytics (kvôli štatistikám návštevnosti webu). 
+
+9. Na příkladu pull requestu, který jste vytvořili kdykoli v průběhu semestru, demonstrujte klíčové vlastnosti dobrého pull requestu.
+
+10. Na příkladu commitu, který jste vytvořili kdykoli v průběhu semestru, demonstrujte klíčové vlastnosti dobrého commitu.
+
+11. Na konkrétním příkladu CSS kódu ve vlastním commitu ukažte selektor třídy (přiložte odkaz na commit).
+
+https://github.com/Kubby18/LALALA/commit/d418a706707d50dbaa5720a7aae84af54cea87e2
+
+Selektor slúži na výber prvku stránky, pre ktorý bude platiť nasledujúca definícia štýlu, čiže umožňuje nám priradiť prvku stránky určitú vlastnosť. 
+
+V prípade triedy bude platiť „p.zanr“, „p.autor“, „p.zdroj“ atď. CSS deklarácie k selektoru „p.zanr“ budú platiť iba tam, kde sa používa HTML atribút „class“. Napr: <p class="zanr">Pohádka</p>
+
+http://www.tutorial.wz.cz/data/css/AVT.02.01.05.tema.html
+
+12. Na konkrétním příkladu CSS kódu ve vlastním commitu popište různé druhy selektorů (přiložte odkaz na commit).
+
+https://github.com/Kubby18/LALALA/commit/d418a706707d50dbaa5720a7aae84af54cea87e2
+
+1. body, h1, h2, footer, header (riadok 8,12,75,79 ...) = deklarácia platí pre všetky výskyty elementu body/h1/h2/footer/header. 
+2. p.zanr, p.autor, p.zdroj (r. 18,22,26 ...) = tieto deklarácie budú platiť pre všetky elementy, ktoré majú v HTML nastavenú triedu „p.zanr“/“p.autor“/“p.zdroj“. Sú to vlastne deklarácie triedy, ktoré platia tam, kde sa  používa HTML atribút „class“.
+3. footer p (r. 157 ...) = deklarácie platia pre všetky elementy „p“, ktoré sa nachádzajú v elemente „footer“
+4. #soutez, #pytel, #zaver  (r. 83, 90 ...)= deklarácie platia pre všetky elementy, ktoré majú v HTML nastavený identifikátor „id“. 
+
+13. Popište, k čemu jsou v dokumentu HTML užívány elementy div a span.
+
+Div a span sú neutrálne tagy, ktoré nedávajú obsahu HTML dokumentu význam, ale pri použití CSS  tento význam získavajú. Používajú sa keď chceme určitú časť textu odlíšiť od zbytku – dať jej iné vlastnosti/formát.  
+
+Div je element blokový. Pomocou div(ou) sú rozlíšené jednotlivé prvky na stránke. Jeden div môže určovať „header“, iný „zase „footer“ a podobne. Na rozdiel od span(u) pred sebou i za sebou zalamuje riadok (<div><p>...</p></div>)
+
+CSS
+.oramovany {border: 1px solid violet;}
+.box {width: 200px; background-color: #0066CC; color: white;
+border: 3px solid yellow;} 
+HTML
+<div class="oramovany">Ukázka orámovaného divu</span>
+<div class="box">
+<p>Další ukázka divu formátovaného pomocí CSS.</p>
+<p>Druhý odstavec v divu&hellip;</p>
+</div> 
+Span je element riadkový. Používame ho teda ak chceme upraviť iba určitú časť vety. (<p><span>Řádkové a blokové tagy</span></p>)
+
+CSS
+.barva-1 {color: green; font-size: 120%;}
+.barva-2 {color: magenta; font-size: 120%;} 
+HTML
+<p>Mezi moje oblíbené barvy patří <span class="barva-1">zelená</span>
+a <span class="barva-2">purpurová</span>.</p> 
+http://www.pestujemeweb.cz/obsah/css/div-a-span.php
+14. Vyjmenujte pět vlastností CSS, které popisují něco jiného, než zobrazení textu, a odkažte na konkrétní příklady, kdy je prakticky užíváte (odkažte na soubor ve vlastním repozitáři nebo commit).
+https://github.com/Kubby18/LALALA/commit/d418a706707d50dbaa5720a7aae84af54cea87e2
+1. Background = nastavenie farby pozadia stránky. Napríklad: background: rgb(160,180,180) (riadok 9)
+2. Margin = určuje šírku vonkajšieho okraja prvku. Môže sa nastavovať zvlášť každá jeho strana (top, bottom, right, left) Napríklad: margin:10 (riadok 13, 84 -87)
+3. Padding = určuje šírku vnútorného okraja prvku. (riadok 14)
+4. Border = určije vlastnosti rámčeku. (r. 98)
+5. Width = šírka prvku (r. 148)
+15. Popište, co je to v kontextu CSS selektor.
+Selektory popisujú triedy, prvky, identifikátory objektov a ich vzájomné kombinácie, na ktoré sa definovaný štýl ma aplikovať. Inými slovami, selektor slúži na výber prvku stránky, pre ktorý bude platiť nasledujúca definícia štýlu, čiže umožňuje nám priradiť prvku stránky určitú vlastnosť. 
+http://becvarova.com/skoleni/css-kaskadove-styly/selektory/
+http://www.tutorial.wz.cz/data/css/AVT.02.01.05.tema.html
+16. Vyjmenujte pět vlastností CSS, které popisují zobrazování textu, a odkažte na konkrétní příklady, kde je prakticky užíváte (odkažte na soubor ve vlastním repozitáři nebo commit).
+https://github.com/Kubby18/LALALA/commit/d418a706707d50dbaa5720a7aae84af54cea87e2
+1. text-align: center, right, left = zarovnanie textu na do stredu, na pravo, na ľavo (r. 173)
+2. font-size: 360% = určuje veľkosť písma (r.181)
+3. font-weight: bold = určuje tučnosť písma, v tomto prípade tučné písmo (r.165)
+4. font-family: "Times New Roman" = určuje font, v tomto prípade „Times New Roman“ (r.177)
+5. text-transform: uppercase = určuje veľké/malé písmená, v tomto prípade veľké (r.23)
+17. Co popisuje „kaskáda“ v názvu Cascading Style Sheets?
+Kaskáda je jedna zo základných funkcií štýlov, pričom určuje hierarchiu predpisovania vlastností prvkom. Najvyšiu hodnotu má štýl uvedený priamo v elemente v kóde stránky. Druhú najvyššiu hodnotu majú identifikátory, tretiu triedy a najnižšiu štýl elementu. 
+http://www.tutorial.wz.cz/data/css/AVT.02.01.06.tema.html
+http://www.sps-jia.cz/blue/staticfiles/HTML/?CSS:D%C4%9Bdi%C4%8Dnost_a_kask%C3%A1da
+Vysvětlete, k čemu může být užitečná anonymita na internetu (zde z úvahy vynechte případy, kdy jde o překračování zákona).
+Na příkladu služby sci-hub vysvětlete, co je to dark web.
+Sci-Hub je pirátsky repozitár s viac ako 47 000 000 akademických článok, ktoré sú prístupné skrz túto webovú stránku. Pri vyhľadávaní článkov stránka najskôr skontroluje, či článok nie je už v LibGene (podobne ruskej webovej stránke). Ak nie, Sci-Hub vstupuje na stránku vydavateľa a pristupuje k článku cez platené predplatné. Prihlasovacie údaje k týmto prístupom darovali anonymní akademici z rôznych zemí. Hlavnou podstatou webu je, že akademické výzkymi by mali byť dostupné voľne, a nie prístupné iba za veľké peniaze. 
+Samozrejme Sci-Hub je ilegálny, pričom rovnako ako Silk Road či stránky s detskou pornografiou sú je prístupný iba skrz „Tor“, teda cez sieť počítačov ktoré prenášajú webové požiadavky náhodnou sériou serverov s cieľom udržať navštevníkovu anonymitu. 
+Na příkladu maretu Silk Road vysvětlete, co je to dark web.
+Silk Road bol online „darknetový“ čierny trh, nechválne známi ako online platforma na predávanie drog. Ako každý iný obsah „dark webu“, aj Silk Road bol dostupný iba skrz Tor software, teda pomocou siete počítačov ktoré prenášajú webové požiadavky náhodnou sériou serverov s cieľom udržať navštevníkovu anonymitu. Silk Road fungoval od roku 2011 do roku 2013, kedy FBI stránku vypla. Zakladateľ stránky Ross William Ulbricht bol za to odsúdení na doživotie. 
+Dark Web je obsah WWW, ktorý existuje iba na darknete, teda sieti ktorá síce využíva verejný Internet ale vyžaduje k prístupu využívať špecifické nástroje ako Tor, Freenet či I2P.  Obsah „dark webu“ sa nedá nájsť pomocou vyhladávačou.
+Vysvětlete, jak pracuje síť Tor (vysvětlete termíny „onion routing“ a „tor relay“).
+Každý obsah „dark webu“ (drogy, detská pornografia, zbrane) sú dostupné iba cez špecifické sw ako práve Tor. Tor je v podstate free software, ktorý dovoľuje anonymnú komunikáciu na internete. Funguje to tak, že siete počítačov prenášajú webové požiadavky skrz sériu náhodných serverov s cieľom udržať navštevníkovu anonymitu. Pôvodný názov softwaru bol „onion router“, z čoho sa odvodil „onion routing“.
+Onion Routing = technika pre anonýmnu komunikáciu po sieti. V „onion“ sietiach, správa je schovaná pod vrstvy kódovania, pričom zakódované dáta sú prenášané skrz sériu sieti, pričom každá z nich dekoduje jednu vrstvu správy. Keď je dekódovaná posledná vrstva, tak správa dorazí do cieľovej destinácie. 
+Tor Relay = sú to routere, ktoré obdržia správa v Tor sieti a zašlú ju ďalej. Existujú tri druhy Tor Relay – middle (prvé, ktoré obdržia správu a pošlú ju ďalej), exit (posledný, ktorý nasmeruje uživatela na konečnú destináciu)
+Vysvětlete, co je to Tor browser a formulujte vlastní názor na jeho užitečnost.
+Tor browser (predtým známy ako Tor Browser Bundle), je upravený Mozzila Firefox prehliadač, ktorý zaisťuje uživateľovu anonymitu na internete. 
+Vysvětlete, jaký je rozdíl mezi soukromím (privacy) a anonymitou (anonymity) na internetu.
+Privacy = schopnosť kontrolovať čo zdielame s kým a kedy,
+Popište, jaká jsou rizika „dark webu“ a jak se liší od rizik na „běžném“ webu.
+Srovnejte publikování obsahu na webu pomocí CMS Wordpress a pomocí služby Blogger.
+Blogger = free blogová platforma, vlastní ju Google. Ak používate blogger, tak jeho obsah nevlastníte – vlastní ho google, ktorý môže vašu stránku kedykoľvek zrušiť. Blogger ponúka iba obmedzené možnosti – limitovaný počet gadgetov, templatov atď. Na nahodzovanie postov sa používa textový editor. 
+Wordpress = open sourcový software v ktorom si uživateľia môžu budovať webovú stránku scela podľa vlastných potrieb – môžu si sem pridávať rôzne pluginy, widgety atď. Uživatelia si môžu stiahnuť zdrojový kód do svojho počítača a pracovať na ňom lokálne. Pri práci na WorldPress.org sa využívajú dva jazyky: MYSQL (v rámci databázového systému, kde sa ukladá obsah WorldPressu) a PHP (skryptovací programovací jazyk). 
+Vysvětlete pojem CMS v kontextu publikování obsahu na webu.
+CMS (Content Management System) = systém pre správu obsahu (redakční, publikační systém). Ide o software, ktorý umožňuje spravovať webové stránky. Pomocou CMS môžeme publikovať, editovať vlastný blogy, pričom nemusíme nutne ovládať HTML či CSS kódovanie. Narábanie s obsahom je teda jednoduche, na druhej strane ale užívatelia nemajú absolútnu kontrolu nad stránkou, pričom majú iba limitované možnosti vo výbere gadgetov a podobne. 
+Srovnejte publikování obsahu na webu pomocí služby Blogger a na platformě Jekyll.
+Blogger = CMS (content management system), systém správy obsahu. Vlastný ho Google, užívateľ ho má automaticky k dispozícií hneď po založení Google účtu. Je zadarmo, obsah sa publikuje a edituje pomocou textového editora. Nie je nutná znalosť HTML/CSS. Obsah nevlastní užívateľ, ale Google ktorý môže stránku kedykoľvek zablokovať. Blogger ponúka iba obmedzenú slobudu – iba limitovaný výber gadgetov či templetov. 
+Jekyll = generátor statických stránok. Open sourcový software, ktorý je dostupný pomocou služby Github. Stránka na Jekylle sa dá upravovať lokálne, vlastníkom dát je užívateľ, pričom si svoju stránku môže upravovať bez obmedzení. Pri práci s Jekyllom je nutná aspoň základná znalosť Markdownu (na nahodzovanie postov), CSS a HTML. Dajú sa tu využívať šablóny.
+Popište, jaké máte možnosti, když chcete publikovat obsah na internetu.
+1. Generátor statických stránok = Jekyll, Gitbook. Využívajú šablóny na vyrábanie HTML súborov. Obsah sa dá meniť lokálne v ľubovolnom textovom editore.
+2. Systém správy obsahu (CMS) = Wordpress. Webové aplikácie, ktoré dovoľujú pridáť, meniť a mazať obsah na webových stránkach. Väčšinou sú jednoduché a nevyžadujú nutnosť ovládať HTML/Markdown/CSS.
+3. Webové služby tretích strán = napr. Tumblr. Sú to skôr sociálne siete, na ktoré užívateľ pridáva obsah (príspevky, fotky …) priamo na webovej stránke. Užívateľ takýchto služieb väčšinou nemôže zo stránkou moc pracovať, má na výber iba limitovaný počet gadgetov, tém atď.
+Srovnejte publikování obsahu na webu pomocí CMS Wordpress a na platformě Jekyll.
+Jekyll = generátor statických stránok. Open sourcový software, ktorý je dostupný pomocou služby Github. Stránka na Jekylle sa dá upravovať lokálne, vlastníkom dát je užívateľ, pričom si svoju stránku môže upravovať bez obmedzení. Pri práci s Jekyllom je nutná aspoň základná znalosť Markdownu (na nahodzovanie postov), CSS a HTML. Dajú sa tu využívať šablóny.
+Wordpress = open sourcový software v ktorom si uživateľia môžu budovať webovú stránku scela podľa vlastných potrieb – môžu si sem pridávať rôzne pluginy, widgety atď. Uživatelia si môžu stiahnuť zdrojový kód do svojho počítača a pracovať na ňom lokálne. Pri práci na WorldPress.org sa využívajú dva jazyky: MYSQL (v rámci databázového systému, kde sa ukladá obsah WorldPressu) a PHP (skryptovací programovací jazyk). 
+Na příkladu z týmového projektu (můžete využít i cizí projekt) vysvětlete, k čemu je užitečné embedování (embedding).
+Embedovanie umožňuje vkladať obsah rôznych webových služieb na váš web. Používajú sa k tomu najmä tagy embed, iframe či script. Vďaka embedovaniu môžete na svoj web nahadzovať videá z youtube, tweety, vyberať peniaze cez paypal atď. 
+S kolegom sme nahodili na Jekyll video z youtube. Naneštastie sme ho aj omylom zmazali, takže tu je aspoň commit.
+https://github.com/Pater99/Pater99.github.io/commit/bae197f2c26fe866aa089da1c3e29d8fffa24dc0
+Popište, jak je možné využít automatizace (pomocí webových služeb) ve firemním prostředí.
+Popište, jak pracuje služba IFTTT na příkladu dvou „receptů“.
+Služba IFTTT (If This Than That) dáva možnosť navzájom prepájať funkcie rôznych webových aplikácií (napr. Dropbox+Instagram – vaše fotky z Instagramu sa okamžite uložia na úložisko Dropboxu). Služba IFTTT je zdarma, po prihlásení užívateľ IFTTT môže vytvárať takzvané „recepty“, ktoré zahŕňajú dve webové aplikácie: jednu aplikáciu ako spúšťač, druhú zase na vykonanie procesu. 
+1. https://ifttt.com/recipes/196939-get-notified-with-your-favorite-team-s-final-score
+Ihneď potom, čo sa skončí zápas vášho obľúbeného týmu, príde vám upozornenie s výsledkom zápasu. 
+2. https://ifttt.com/recipes/165139-rain-tomorrow-get-a-notification
+Ak bude zajtra pršať, tento „recept“ vás dopredu upozorní.
+Kedykoľvek pridáte nový súbor do Dropbox zložky, tak automaticky sa rovnaký súbor nahraje aj na Google Drive. 
+Dropbox je webové úložisko, ktoré na vašom počítači/smartphone/tablete vytvorí synchronizovanú zložku, kde si môžete pridávať ľubovolné súbory. Každý súbor vložený do tejto zložky sa automaticky nahraje na webové úložisko (pokiaľ máte prístup k internetu), ktoré slúži nielen na zálohovanie, ale vďaka nemu je možné využívať konkrétny obsah aj skrz iné zariadenia. 
+Google Drive je skoro to isté, len je to Google. Je vhodný najmä pre dokumenty, tabuľky či prezentácie.
+Stručně popište, co je to Internet of Things (IoT), a formulujte vlastní názor na tento fenomén.
+Je to systém, ktorý umožňuje prepájať jednotlivé zariadenia prostredníctvom internetu bez účasti človeka. Princípom je zber dát z rôznych senzorov a čidieľ a zdielanie týchto dát prostredníctvom internetu za účelom ďalšieho spracovania a vyhodnocovania. Internet vecí využíva pre pripojenie zariadení kablové siete či bezdrátové WLAN siete. K vyhodnocovaniu pozbieraných dat sa využívajú „big data“.
+http://www.kodys.cz/internet-of-things.html
+Popište, jak je možné využít automatizace (pomocí webových služeb) v osobním životě.
+Popište, co jsou to big data.
+Popište, jak funguje prvek iframe, a ilustrujte to příkladem v libovolném repozitáři, do kterého jste v průběhu kurzu přispěl(a).
+https://github.com/Pater99/Pater99.github.io/commit/bae197f2c26fe866aa089da1c3e29d8fffa24dc0
+„iframe“ sa používa na embedovanie obsahu rôznych webových služieb na váš web. Používajú sa k tomu najmä tagy embed, iframe či script. Vďaka embedovaniu môžete na svoj web nahadzovať videá z youtube, tweety, vyberať peniaze cez paypal atď. 
+S kolegom sme nahodili na Jekyll video z youtube. Naneštastie sme ho aj omylom zmazali, takže tu je aspoň commit.
+Popište, co je to IP adresa, a ilustrujte popis příkladem.
+IP (Internet Protocol) adresa je unikátnou séria čísliel, ktoré prislúchajú každému počítaču (či inému zariadeniu) pripojenému k internetu. Tradičné IP adresa je 32 bitová, pričom každých 8 bitov značí jedno zo štyroch čísiel IP adresy. Prvé čísla väčšinou znamenajú krajinu či hlavnú sieť, potom oblasti/regióny, podsiete a nakoniec samostatné zariadenie – 32 bitový IP adresa sa začala používať v roku 1973 a nazýva sa IPv4. Kapacita IPv4 ale už v súčastnej dobe nie je dostatočná, takže sa prechádza na 128 bitovú IP adresu - IPv6. IP adresy sú vlastne tým, čo dovoľuje komunikáciu medzi zariadeniami na sieti – vďaka čomu sa dokážu vyhľadať a posielať si medzi sebou obsah. Ak si chceme pozrieť napríklad video na Youtube, naše zariadenie bude potrebovať zistiť IP adresu daného Host serveru. Tu mu prezradia DNS servery, pričom následne je naše zariadenie schopne host server vyhľadať a zaslať mu požiadavok na daný obsah. Server túto žiadosť spracuje, zistí si našu IP adresu a zašle objednaný obsah skrz ISP siete k nám – teda k enduserovy. 
+Popište, co se stane v síti, když do prohlížeče zadáte webovou adresu a odešlete požadavek.
+Najskôr sa musí zistiť IP adresa, takže prebehne komunikácia medzi naším zariadením a DNS (domain name system) serverami, ktoré priradia k názvu stránky jeho IP adresu. Keď naše zariadenie už pozná IP adresu stránky, tak skrz ISP siete vyhľadá konkrétne zariadenie, ktoré má na starosť fungovanie daného webu. Tomuto zariadeniu následne doručí požiadavok na zaslanie určitého obsahu, pričom si zariadenie spravujúce web spätne zistí IP adresu nášho zariadenia a zašle mu objednaný obsah. Ten u ISP rozdelí do data packetov, ktoré následne putujú ISP sieťami k nám – teda k end userovy. Tu sa pôvodne objednaný obsah (v tomto prípade stránka) dá späť do kopy pomocou sorting algoritmu a následne už môže užívateľ scrollovať. 
+Popište, jaké služby zařaditelné ke konceptu Web 2.0 sami využíváte (alespoň 3 příklady).
+Wikipédia, Facebook, Twitter, Google News, Youtube
+Vysvětlete, jaký je rozdíl mezi Wikipedií a konceptem wiki.
+Wiki = vzájomne prepojené webové stránky, ktoré sú prístupné užívateľom cez webový prehliadač a ktorých aktuálny obsah môžu užívatelia doplňovať či obmeňovať prostredníctvom tohto prehliadača. Akýkoľvek užívateľ môže vložiť nový záznam a ktokoľvek iný ho môže zmeniť. Wiki je tiež webový software umožňujúci tvorbu webových stránok typu wiki.
+Wikipedia je projekt hnutia Wikimedia, je to celosvetová, bezplatná internetový encyklopédia do ktorej môže každý užívateľ cez internetový prehliadač pridávať či editovať obsah. 
+Wikipedia je teda len jedna zo stránok typu „wiki“.
+http://aleph.nkp.cz/F/?func=direct&doc_number=000014547&local_base=KTD
+Popište, na jakém principu jsou založeny wiki nástroje (nikoli pouze Wikipedia), a formulujte svůj názor na efektivitu takového přístupu.
+Wiki nástroje sú založené na princípe, že každý užívateľ môže cez internetový prehliadač pridávať, editovať a mazať obsah na stránkach typu „wiki“. Wiki nástroje sú založené na myšlienke spoločného spravovania informácií na webových stránkach, teda na spoluautorstve. 
+Wiki nástroje sú založené na tom, že ktokoľvek môže akokoľvek pridávať/editovať/mazať obsah. Výhodné je to z toho hľadiska, že tieto stránky bývavajú neustále aktualizované, stále pribúda nový obsah/nové informácie. S wiki nástrojmi prichádzajú tiež ale problémy, pretože niektorí jednotlivci nemusia na webové stránky typu „wiki“ vždy nahadzovať iba relevantné a zaručené informácie. Z toho dôvodu je potreba aby sa aj vo wiki nástrojoch odkazovalo na použité zdroje a aby prebiehala aspoň minimálna kontrola predtým, než sa upravený (či nový obsah) sa na „wiki“ stránkach zverejní. 
+Uveďte dva příklady služeb z kategorie sharing economy, které se setkaly s negativním přijetím skupin veřejnosti (místních komunit, úřadů, zaměstnanců v určitém oboru atp.). Ve strukčnosti popište, proč k tomu došlo a stručně formulujte vlastní názor na problematiku.
+Uber = mobilná aplikácia a spoločnosť, ktorá umožňuje používateľom smartphonov objednávať si automobilový odvoz, teda niečo na spôsob taxi, len ide o vodiča osobného auta ktorý používa Uber aplikáciu, pričom mu cenu diktuje Uber a platby prebiehajú prostredníctvom aplikácie. S Uberom majú samozrejme najväčší problém taxi služby, pretože táto lacnejšia a dostupnejšia služba pripravuje o zákazníkov. 
+AirBnB = platforma prepája ľudí, ktorý majú voľné priestory na prenájom a cestovateľov, ktorý hľadajú v danej lokalite ubytovanie. Ľudia, ktorý odchádzajú mimo svojho domova na pár mesiacov, môžu napríklad cez túto službu svoj dom prenajímať počas doby, kedy budú preč. Proti AirBnB a podobným službám samozrejme protestujú hoteliéri, ktorý rovnako ako taxikári pri Uberi prichádzajú o zákazníkov kvôli lacnejšej variante. 
+K obom dvom situáciam došlo, pretože sa svet mení a ľudia začínajú využívať nové, dostupnejšie a lacnejšie služby. Pokiaľ chcú hotelieri a taxikári udržať svoj biznis, budú sa musieť rýchlo prispôsobiť novej dobe. 
+Popište, co je to algoritmicky vytvářený feed a jak můžete v případě sociální sítě Facebook záměrně či nezáměrně ovlivnit, jaké výsledky algoritmus vrací.
+Myslím, že ide o personalizáciu užívateľov na internete. Algoritmus sleduje správanie ľudí na stránkach (či v tomto prípade na sociálnych sieťach), ich návyky a preferencie, pričom im následne ponúka najmä prispôsobený obsah. Napríklad pokiaľ zastávate určité politické či kultúrne názory, facebook vám bude viac ponúkať príspevky a články z týchto oblastí ktoré preferujete a všetko ostatné vytlačí. Takto sa užívateľ FB dostanete do akejsi bubliny – facebook vám bude ponúkať iba výsledky ktoré bude považovať pre vás za relevantné, všetko ostatné sa k vám nedostane. To isté robí napríklad aj google, tiež sleduje vaše preferencie a postupom času stále viac a viac prispôsobuje vyhľadané výsledky. Podľa mňa by nejaký algoritmus nemal rozhodovať o tom, čo sa mi bude páčiť či nie. Ľudia (hlavne mladý) sa rýchlo menia, pričom práve nové informácie/názory s ktorými sa predtým nedostal do kontaktu môžu človeku podstatne zmeniť ich život k lepšiemu. 
+Popište, co je to sharing economy, a formulujte svůj názor na tento fenomén.
+Sharing economy, je hybridný trhový model, ktorý je založený na „peer to peer“ zdieľaniu prístupu k službám a produktom. Ide tu v podstate o to, že jednotlivci si môžu požičiavať či prenajímať majetok/produkty iných osôb. Tento model sa využíva väčšinou vtedy, keď daný majetok/produkt (napríklad byt) nie využívaný majiteľom po celú dobu. Sharing economy je založená na princípe, že mať prístup k veci je lepšie ako ju vlastniť, pretože je to lacnejšie a ekologickejšie. Sharing economy dokáže funguvať iba vďaka moderným technológiam, ktoré umožnujú konektivitu
+https://en.wikipedia.org/wiki/Sharing_economy
+Popište, co jsou to MOOC a zhodnoťte, zda je o fenomén, který je pro vás relevantní.
+MOOC (Massive Open Online Course) sú internetové vzdelávacie kurzy s neobmedzeným počtom účastníkov. Ide podstate o druh e-learningovej metódy, založenej na princípe zdieľania a voľnosti. Vzdelávanie prebieha na diaľku, môže prebiehať formou online prednášiek, online testov, úloh atď. Čo je na MOOC dôležité, tak je to, že kurzy sú voľne dostupné a ponúkajú možnosť sa vzdelávať v rôznych oblastiach – sociálne vedy, management atď. 
+CSS =
+ p {
+      font-family: 
+      font-size: 
+      color: 
+      background: 
+      font-weight:
+      text-decoration:
+     font-variant:
+     line-height:
+    text-align
+cite {
+        font-style: italic;
+        line-height: inherit;
+      }</p>
+        </li>
+      </ol>
+    </section>
+      
+    <section id="zaver">
+      <h2>Spravedlnost?</h2>
+      
+      <p>A chytrý švec s rodinou se radovali, jak převezli hloupého čerta.</p>
+    </section>
+
+    <footer>
+      <p>Konec</p>
+    </footer>
+
+  </div>
+</body>
+</html>
